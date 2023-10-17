@@ -97,7 +97,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 
     =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
 
-  A.11. ISNONTEXTV
+  A.11. ISNONTEXT
 
 > -> The Excel ISNONTEXT function returns TRUE for a nontext value, for example, a number, a date, a time, etc.
 >
