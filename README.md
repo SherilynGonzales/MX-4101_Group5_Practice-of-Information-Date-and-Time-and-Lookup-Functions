@@ -3,7 +3,7 @@
 
 Information, Date and time, and Lookup Functions are highlighted in this section along with information on how to utilize and manipulate them in Microsoft Excel. Every definition of a function includes a reference to its syntax.
 
-#### 𝐀. 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+### 𝐀. 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 
   A.1. ISERROR
 
@@ -12,24 +12,27 @@ Information, Date and time, and Lookup Functions are highlighted in this section
   𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘌𝘙𝘙𝘖𝘙 (𝘷𝘢𝘭𝘶𝘦) >
+> ![ISERROR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/ed794bfa-f91f-4e79-bd1e-e2234b6b973f)
 
 
   A.2. ISERR
 
-> -> The Excel ISERR function returns TRUE for any error type except the #N/A error. >
+> -> The Excel ISERR function returns TRUE for any error type except the #N/A error. 
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘌𝘙𝘙(𝘷𝘢𝘭𝘶𝘦)
+> ![ISERR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/4ffe6c4e-36d8-4fba-acb1-a8a814939f86)
 
 
   A.3. ISNA
 
-> -> The Excel ISNA function returns TRUE when a cell contains the #N/A error and FALSE for any other value, or any other error type. > 
+> -> The Excel ISNA function returns TRUE when a cell contains the #N/A error and FALSE for any other value, or any other error type. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘕𝘈(𝘷𝘢𝘭𝘶𝘦)
+> ![ISNA](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/41ba1d45-271e-475e-8890-a9af19dfda36)
 
 
   A.4. ERROR.TYPE
@@ -43,7 +46,8 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘙𝘙𝘖𝘙.𝘛𝘠𝘗𝘌(𝘷𝘢𝘭𝘶𝘦)
- 
+> ![ERROR TYPE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d22f81b5-32ac-4644-8ba7-911d89a29c6d)
+
 
   A.5. ISNUMBER
 
@@ -52,6 +56,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘕𝘜𝘔𝘉𝘌𝘙 (𝘷𝘢𝘭𝘶𝘦)
+> ![ISNUMBER](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/c8c1a3c5-4423-47fc-9cff-a88d62749dcb)
 
   A.6. ISEVEN
 
@@ -62,6 +67,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =I𝘚𝘌𝘝𝘌𝘕(𝘷𝘢𝘭𝘶𝘦)
+> ![ISEVEN](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/e8b1c12d-f072-4eb2-9b8c-4805d57229c4)
 
   A.7. ISODD
 
@@ -72,6 +78,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘖𝘋𝘋 (𝘷𝘢𝘭𝘶𝘦)
+> ![ISODD](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/563db462-1b86-4970-940e-7cd720eb7265)
 
   A.8. ISBLANK
 
@@ -80,6 +87,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘉𝘓𝘈𝘕𝘒(𝘷𝘢𝘭𝘶𝘦)
+> ![ISBLANK](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/20405a1f-8ec0-4305-94d8-7cc80f139a44)
 
   A.9. ISLOGICAL
 
@@ -88,6 +96,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘓𝘖𝘎𝘐𝘊𝘈𝘓(𝘷𝘢𝘭𝘶𝘦)
+> ![ISLOGICAL](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/36712ed6-23d1-4bab-8d1c-9c2d0c705c84)
 
   A.10. ISTEXT
 
@@ -96,6 +105,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
+> ![ISTEXT](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/1508d5fb-a693-41ee-a0d4-ede620bcf8ae)
 
   A.11. ISNONTEXT
 
@@ -106,16 +116,18 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘕𝘖𝘕𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
+> ![ISNONTEXT](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/55a4a52d-4f9f-4d84-876f-533878a1383a)
 
   A.12. ISREF
 
 > -> The Excel ISREF function returns TRUE when a cell contains a reference or space, and FALSE if not.
 >
-> ->  You can use the ISREF function to check is a cell contains a valid reference. 
+> ->  You can use the ISREF function to check if a cell contains a valid reference. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘙𝘌𝘍(𝘷𝘢𝘭𝘶𝘦)
+> ![ISREF](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d5730a19-94bd-4756-ae5c-567b0cf45b69)
 
   A.13. ISFORMULA
 
@@ -126,6 +138,7 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘍𝘖𝘙𝘔𝘜𝘓𝘈(𝘷𝘢𝘭𝘶𝘦)
+> ![ISFORMULA](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a98bdcee-1d9b-4508-8e03-c05c4d06871f)
 
   A.14. TYPE
 
@@ -137,9 +150,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘛𝘠𝘗𝘌(𝘷𝘢𝘭𝘶𝘦)
+> ![TYPE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d7dbaaf0-a90d-4124-9d63-fce3c2b69cc0)
 
 
-#### 𝐁. 𝐃𝐀𝐓𝐄 & 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+### 𝐁. 𝐃𝐀𝐓𝐄 & 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
   B.1. DATE
 
 ->  The Excel DATE function creates a valid date from the individual year, month, and day components.
@@ -342,7 +356,7 @@ Parameters
     =𝘋𝘈𝘠𝘚(𝘦𝘯𝘥_𝘥𝘢𝘵𝘦, 𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦)
 
   
-#### 𝐂. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+### 𝐂. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 -> The Excel LOOKUP function performs an approximate or exact match lookup in a one-column or one-row range, and returns the corresponding value from another one-column or one-row range.
 
 -> LOOKUP’s default behavior makes it useful for solving certain problems in Excel. 
