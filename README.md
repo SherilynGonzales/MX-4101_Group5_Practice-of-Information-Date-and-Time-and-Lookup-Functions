@@ -240,11 +240,6 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 
     =𝘏𝘖𝘜𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
-    
-    =𝘔𝘐𝘕𝘜𝘛𝘌(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-    
-=======
-
     =𝘔𝘐𝘕𝘜𝘛𝘌(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
     =𝘚𝘌𝘊𝘖𝘕𝘋(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
@@ -263,11 +258,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 >> MONTH
 >>
 >> -> The Excel MONTH function extracts the month from a given date as a number  between 1 to 12.
-
 >> 
-=======
->>
-
 
 >> YEAR
 >>
@@ -279,10 +270,6 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
     =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
 
-    =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-    
-=======
-  
     =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
 
