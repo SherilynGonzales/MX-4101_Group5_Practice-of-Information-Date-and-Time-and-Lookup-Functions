@@ -156,23 +156,25 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 ### 𝐁. 𝐃𝐀𝐓𝐄 & 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
   B.1. DATE
 
-->  The Excel DATE function creates a valid date from the individual year, month, and day components.
-
-->  The DATE function is useful for assembling dates that need to change dynamically based on other values in a worksheet
+> ->  The Excel DATE function creates a valid date from the individual year, month, and day components.
+>
+> ->  The DATE function is useful for assembling dates that need to change dynamically based on other values in a worksheet
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘢𝘵𝘦(𝘺𝘦𝘢𝘳,𝘮𝘰𝘯𝘵𝘩,𝘥𝘢𝘺)
+> ![DATE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/52840872-9ae0-4308-babe-89036a4b1a61)
 
   B.2. TIME
 
-->  The Excel TIME function is a built-in function that allows you to create a time with individual hour, minute, and second components.
-
-->  The TIME function is useful when you want to assemble a proper time inside another formula.
+> ->  The Excel TIME function is a built-in function that allows you to create a time with individual hour, minute, and second components.
+>
+> ->  The TIME function is useful when you want to assemble a proper time inside another formula.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘛𝘪𝘮𝘦(𝘩𝘰𝘶𝘳,𝘮𝘪𝘯𝘶𝘵𝘦,𝘴𝘦𝘤𝘰𝘯𝘥)
+> ![TIME](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/835dfbca-4845-47c7-830f-df2ac370f5e5)
 
   B.3. DateValue
 
@@ -181,6 +183,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘢𝘵𝘦𝘷𝘢𝘭𝘶𝘦("𝘺𝘦𝘢𝘳-𝘮𝘰𝘯𝘵𝘩-𝘥𝘢𝘺")
+> ![DATEVALUE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3982b82a-4752-481b-aa7d-3abf85f1d8fb)
 
   B.4. TimeValue
 
@@ -189,6 +192,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘛𝘐𝘔𝘌𝘝𝘈𝘓𝘜𝘌("𝘵𝘪𝘮𝘦_𝘵𝘦𝘹𝘵")
+> ![TIMEVALUE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/f27e88ac-ef69-4eee-bdf9-6382c17e29ef)
 
   B.5. Now&Today
 
@@ -203,18 +207,19 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
     =𝘕𝘖𝘞() 
 
     =𝘛𝘖𝘋𝘈𝘠()
+> ![NOW TODAY](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a6178a3e-dd2b-4fff-91ba-af58418f8eb7)
 
   B.6. Hour, Minute, Second
 
 >> HOUR
 >>
->> ->  The Excel HOUR function returns the hour component of a time as a number between 0 and 23. For example, with a time of 9:30 AM, HOUR will return  9,
+>> ->  The Excel HOUR function returns the hour component of a time as a number between 0 and 23. For example, with a time of 9:30 AM, HOUR will return  at 9,
 >>
 >> Serial Number
 >>
 >> ->  Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations.
 >>
->> ->  By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900.
+>> ->  By default, January 1, 1900, is serial number 1, and January 1, 2008, is serial number 39448 because it is 39,448 days after January 1, 1900.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
@@ -239,6 +244,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘚𝘌𝘊𝘖𝘕𝘋(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+>> ![HOUR,MINUTE,SECOND](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/2c7e5214-b7b2-43d5-82d8-8dfc579d6f7e)
 
   B.7. Day, Month, Year
 
@@ -267,6 +273,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+>> ![DATE,MONTH,YEAR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6fd695ed-35cc-4644-b6d7-a47f9267e7f8)
 
   B.8. Weeknum
 
@@ -279,6 +286,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘌𝘌𝘒𝘕𝘜𝘔(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+> ![WEEKNUM](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/fe0f9936-c6c3-4421-9eda-6931e79ce24b)
 
   B.9. Weekday
 
@@ -289,6 +297,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘌𝘌𝘒𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳,[𝘳𝘦𝘵𝘶𝘳𝘯_𝘵𝘺𝘱𝘦])
+> ![WEEKDAY](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3d399807-6f75-4ea8-8f78-8dede6b654bd)
 
   B.10. EDATE
 
@@ -299,6 +308,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘋𝘈𝘛𝘌(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦,𝘮𝘰𝘯𝘵𝘩𝘴)
+> ![EDATE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/7f02718e-b4fc-4be3-a9b3-ea8830332d1b)
 
   B.11. EOMONTH
 
@@ -307,6 +317,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘖𝘔𝘖𝘕𝘛𝘏(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦,𝘮𝘰𝘯𝘵𝘩𝘴)
+> ![EOMONTH](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/c82ec7bb-941c-48c6-b432-d00cac29d53b)
 
   B.12. Workday
 
@@ -317,8 +328,9 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘖𝘙𝘒𝘋𝘈𝘠(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦, 𝘥𝘢𝘺𝘴, [𝘩𝘰𝘭𝘪𝘥𝘢𝘺𝘴])
- 
-Parameters
+> ![WORKDAY](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/189f6fe4-c727-4855-938d-7d25ff3ac1f6)
+
+> Parameters
 >
 > -> Start date - The date from which to start.
 >
@@ -336,8 +348,9 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘖𝘙𝘒𝘋𝘈𝘠.𝘐𝘕𝘛𝘓(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦, 𝘥𝘢𝘺𝘴, [𝘸𝘦𝘦𝘬𝘦𝘯𝘥], [𝘩𝘰𝘭𝘪𝘥𝘢𝘺𝘴])
- 
-Parameters
+>  ![WORKDAY INTL](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d10ded5a-1017-434c-8eb3-57f835fdac54)
+
+> Parameters
 >
 > -> start_date The start date. ? days - The end date.
 >
@@ -354,6 +367,7 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘈𝘠𝘚(𝘦𝘯𝘥_𝘥𝘢𝘵𝘦, 𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦)
+> ![DAYS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/744b1f6b-a58b-4e0b-a877-52591d45ad07)
 
   
 ### 𝐂. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
