@@ -233,15 +233,22 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 >>
 >> -> The Excel SECOND function returns the second component of a time as a number between 0 and 59.
 >>
->> -> For example, with a time of 9:10:15 AM, the second will return 15. 
+>> -> For example, with a time of 9:10:15 AM, the second will return 15.
+>> 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘏𝘖𝘜𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
+    
+    =𝘔𝘐𝘕𝘜𝘛𝘌(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+    
+=======
+
     =𝘔𝘐𝘕𝘜𝘛𝘌(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
     =𝘚𝘌𝘊𝘖𝘕𝘋(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+    
 >> ![HOUR,MINUTE,SECOND](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/2c7e5214-b7b2-43d5-82d8-8dfc579d6f7e)
 
   B.7. Day, Month, Year
@@ -256,19 +263,31 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 >> MONTH
 >>
 >> -> The Excel MONTH function extracts the month from a given date as a number  between 1 to 12.
+
+>> 
+=======
 >>
+
 
 >> YEAR
 >>
->> -> The Excel YEAR function returns the year component of a given date as a 4-digit number. 
+>> -> The Excel YEAR function returns the year component of a given date as a 4-digit number.
+>> 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+
+
+    =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+    
+=======
   
     =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
+
     =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+    
 >> ![DATE,MONTH,YEAR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6fd695ed-35cc-4644-b6d7-a47f9267e7f8)
 
   B.8. Weeknum
@@ -379,6 +398,7 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘳𝘢𝘯𝘨𝘦, [𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
+> ![LOOKUP](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/59ccf0fc-aaf5-4292-a2b3-4543f2e99292)
 
 
   C.2. VLOOKUP
@@ -389,8 +409,8 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘝𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘵𝘢𝘣𝘭𝘦 , 𝘪𝘯𝘥𝘦𝘹 ,[𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
- 
-Parameters
+> ![VLOOKUP](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6534b03b-9fc9-4f2a-b3a1-7751f8c9505a)
+> Parameters
 >
 > -> value - The value to look for in the first column of a table.
 >
@@ -409,6 +429,7 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘏𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘵𝘢𝘣𝘭𝘦 , 𝘪𝘯𝘥𝘦𝘹 ,[𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
+> ![HLOOKUP](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d15092bb-09da-4bc3-8641-5a86637a3082)
 
 
   C.4. MATCH
@@ -418,6 +439,7 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
+> ![MATCH](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/bd30345b-994a-4718-9885-929a9f237477)
 
 
   C.5. CHOOSE
@@ -427,8 +449,8 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
-
-Parameters
+> ![CHOOSE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3dae2280-ea5c-4749-80e9-a0db4e61521a)
+> Parameters
 >
 > -> position - The position number in the list of values to return. It must be a number between 1 and 29.
 >
@@ -442,6 +464,7 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘙𝘌𝘈𝘚(𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘦)
+> ![AREAS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/96ec3f9f-6841-419c-a9e8-f59071f697da)
 
   
   C.7. ADDRESS
@@ -451,8 +474,8 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘈𝘋𝘋𝘙𝘌𝘚𝘚( 𝘳𝘰𝘸, 𝘤𝘰𝘭𝘶𝘮𝘯, [𝘳𝘦𝘧_𝘵𝘺𝘱𝘦]. [𝘳𝘦𝘧_𝘴𝘵𝘺𝘭𝘦]. [𝘴𝘩𝘦𝘦𝘵_𝘯𝘢𝘮𝘦] )
-
-Parameters
+> ![ADDRESS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/62071d7d-64b6-42cc-ab66-9e431c93ea8f)
+> Parameters
 >
 > -> row num - The row number to use in the cell address.
 >
@@ -472,6 +495,7 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘓𝘜𝘔𝘕 ([𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘦])
+> ![COLUMN](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/b9a145ac-0162-4a88-86cf-ddf99cc9bf16)
 
   
   C.9. COLUMNS
@@ -481,6 +505,7 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘓𝘜𝘔𝘕𝘚 (𝘢𝘳𝘳𝘢𝘺)
+> ![COLUMNS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a8bc7aed-2477-468c-889c-c57ed8b91673)
 
   
   C.10. INDIRECT
@@ -490,8 +515,8 @@ Parameters
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘐𝘕𝘋𝘐𝘙𝘌𝘊𝘛( 𝘴𝘵𝘳𝘪𝘯𝘨_𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘦, [𝘳𝘦𝘧_𝘴𝘵𝘺𝘭𝘦] )
-
-Parameters
+> ![INDIRECT](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/288fd709-2526-4fad-a7b3-5f721ce09650)
+> Parameters
 >
 > -> string reference - A textual representation of a cell reference.
 >
