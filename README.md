@@ -220,20 +220,14 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 >> ->  Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations.
 >>
 >> ->  By default, January 1, 1900, is serial number 1, and January 1, 2008, is serial number 39448 because it is 39,448 days after January 1, 1900.
- 
-𝑺𝒚𝒏𝒕𝒂𝒙
-
-    =𝘏𝘖𝘜𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+>>
 
 >> MINUTE
 >>
 >> -> The Excel MINUTE function extracts the minute component of a time as a number between 0 and 59.
 >>
->> -> For example, with a time of 9:34 AM, a minute will return 34. 
-
-𝑺𝒚𝒏𝒕𝒂𝒙
-
-    =𝘔𝘐𝘕𝘜𝘛𝘌(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+>> -> For example, with a time of 9:34 AM, a minute will return 34.
+>> 
 
 >> SECOND
 >>
@@ -242,6 +236,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 >> -> For example, with a time of 9:10:15 AM, the second will return 15. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
+
+    =𝘏𝘖𝘜𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+
+    =𝘔𝘐𝘕𝘜𝘛𝘌(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
     =𝘚𝘌𝘊𝘖𝘕𝘋(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 >> ![HOUR,MINUTE,SECOND](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/2c7e5214-b7b2-43d5-82d8-8dfc579d6f7e)
@@ -252,25 +250,23 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 >>
 >> -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a given date.
 >>
->> -> You can use the DAY function to extract a day number from a date into a cell. 
-
-𝑺𝒚𝒏𝒕𝒂𝒙
-
-    =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+>> -> You can use the DAY function to extract a day number from a date into a cell.
+>>
 
 >> MONTH
 >>
->> -> The Excel MONTH function extracts the month from a given date as a number  between 1 to 12. 
-
-𝑺𝒚𝒏𝒕𝒂𝒙
-
-    =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+>> -> The Excel MONTH function extracts the month from a given date as a number  between 1 to 12.
+>>
 
 >> YEAR
 >>
 >> -> The Excel YEAR function returns the year component of a given date as a 4-digit number. 
 
 𝑺𝒚𝒏𝒕𝒂𝒙
+
+    =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+  
+    =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 
     =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
 >> ![DATE,MONTH,YEAR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6fd695ed-35cc-4644-b6d7-a47f9267e7f8)
