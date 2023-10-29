@@ -7,12 +7,14 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 
   A.1. ISERROR
 
-> -> The Excel ISERROR function returns TRUE for any error type excel generates, including #N/A, #VALUE!, #REF!, #DIV/O!, #NUM!, #NAME?, or #NULL!
+> -> The Excel ISERROR function returns TRUE for any error type Excel generates, including #N/A, #VALUE!, #REF!, #DIV/O!, #NUM!, #NAME?, or #NULL!
 
   𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘌𝘙𝘙𝘖𝘙 (𝘷𝘢𝘭𝘶𝘦) >
-> ![ISERROR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/ed794bfa-f91f-4e79-bd1e-e2234b6b973f)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/ed794bfa-f91f-4e79-bd1e-e2234b6b973f">
+</p>
 
 
   A.2. ISERR
@@ -22,7 +24,9 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘌𝘙𝘙(𝘷𝘢𝘭𝘶𝘦)
-> ![ISERR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/4ffe6c4e-36d8-4fba-acb1-a8a814939f86)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/4ffe6c4e-36d8-4fba-acb1-a8a814939f86">
+</p>
 
 
   A.3. ISNA
@@ -32,7 +36,9 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘕𝘈(𝘷𝘢𝘭𝘶𝘦)
-> ![ISNA](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/41ba1d45-271e-475e-8890-a9af19dfda36)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/41ba1d45-271e-475e-8890-a9af19dfda36">
+</p>
 
 
   A.4. ERROR.TYPE
@@ -46,7 +52,9 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘙𝘙𝘖𝘙.𝘛𝘠𝘗𝘌(𝘷𝘢𝘭𝘶𝘦)
-> ![ERROR TYPE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d22f81b5-32ac-4644-8ba7-911d89a29c6d)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d22f81b5-32ac-4644-8ba7-911d89a29c6d">
+</p>
 
 
   A.5. ISNUMBER
@@ -56,7 +64,9 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘕𝘜𝘔𝘉𝘌𝘙 (𝘷𝘢𝘭𝘶𝘦)
-> ![ISNUMBER](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/c8c1a3c5-4423-47fc-9cff-a88d62749dcb)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/c8c1a3c5-4423-47fc-9cff-a88d62749dcb">
+</p>
 
   A.6. ISEVEN
 
@@ -67,7 +77,10 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =I𝘚𝘌𝘝𝘌𝘕(𝘷𝘢𝘭𝘶𝘦)
-> ![ISEVEN](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/e8b1c12d-f072-4eb2-9b8c-4805d57229c4)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/e8b1c12d-f072-4eb2-9b8c-4805d57229c4">
+</p>
+
 
   A.7. ISODD
 
@@ -78,7 +91,10 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘖𝘋𝘋 (𝘷𝘢𝘭𝘶𝘦)
-> ![ISODD](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/563db462-1b86-4970-940e-7cd720eb7265)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/563db462-1b86-4970-940e-7cd720eb7265">
+</p>
+
 
   A.8. ISBLANK
 
@@ -87,16 +103,22 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘉𝘓𝘈𝘕𝘒(𝘷𝘢𝘭𝘶𝘦)
-> ![ISBLANK](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/20405a1f-8ec0-4305-94d8-7cc80f139a44)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/20405a1f-8ec0-4305-94d8-7cc80f139a44">
+</p>
+
 
   A.9. ISLOGICAL
 
-> -> The Excel ISLOGICAL function returns TRUE when a cell contains the logical values TRUE or FALSE, and returns FALSE for cells that contain any other value, including empty cells.
+> -> The Excel ISLOGICAL function returns TRUE when a cell contains the logical values TRUE or FALSE and returns FALSE for cells that contain any other value, including empty cells.
  
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘓𝘖𝘎𝘐𝘊𝘈𝘓(𝘷𝘢𝘭𝘶𝘦)
-> ![ISLOGICAL](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/36712ed6-23d1-4bab-8d1c-9c2d0c705c84)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/36712ed6-23d1-4bab-8d1c-9c2d0c705c84">
+</p>
+
 
   A.10. ISTEXT
 
@@ -105,7 +127,10 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
-> ![ISTEXT](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/1508d5fb-a693-41ee-a0d4-ede620bcf8ae)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/1508d5fb-a693-41ee-a0d4-ede620bcf8ae">
+</p>
+
 
   A.11. ISNONTEXT
 
@@ -116,7 +141,10 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘕𝘖𝘕𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
-> ![ISNONTEXT](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/55a4a52d-4f9f-4d84-876f-533878a1383a)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/55a4a52d-4f9f-4d84-876f-533878a1383a">
+</p>
+
 
   A.12. ISREF
 
@@ -127,7 +155,10 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘙𝘌𝘍(𝘷𝘢𝘭𝘶𝘦)
-> ![ISREF](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d5730a19-94bd-4756-ae5c-567b0cf45b69)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d5730a19-94bd-4756-ae5c-567b0cf45b69">
+</p>
+
 
   A.13. ISFORMULA
 
@@ -138,7 +169,10 @@ Information, Date and time, and Lookup Functions are highlighted in this section
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘐𝘚𝘍𝘖𝘙𝘔𝘜𝘓𝘈(𝘷𝘢𝘭𝘶𝘦)
-> ![ISFORMULA](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a98bdcee-1d9b-4508-8e03-c05c4d06871f)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a98bdcee-1d9b-4508-8e03-c05c4d06871f">
+</p>
+
 
   A.14. TYPE
 
@@ -150,7 +184,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘛𝘠𝘗𝘌(𝘷𝘢𝘭𝘶𝘦)
-> ![TYPE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d7dbaaf0-a90d-4124-9d63-fce3c2b69cc0)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d7dbaaf0-a90d-4124-9d63-fce3c2b69cc0">
+</p>
+
 
 
 ### 𝐁. 𝐃𝐀𝐓𝐄 & 𝐓𝐈𝐌𝐄 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
@@ -163,7 +200,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘢𝘵𝘦(𝘺𝘦𝘢𝘳,𝘮𝘰𝘯𝘵𝘩,𝘥𝘢𝘺)
-> ![DATE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/52840872-9ae0-4308-babe-89036a4b1a61)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/52840872-9ae0-4308-babe-89036a4b1a61">
+</p>
+
 
   B.2. TIME
 
@@ -174,7 +214,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘛𝘪𝘮𝘦(𝘩𝘰𝘶𝘳,𝘮𝘪𝘯𝘶𝘵𝘦,𝘴𝘦𝘤𝘰𝘯𝘥)
-> ![TIME](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/835dfbca-4845-47c7-830f-df2ac370f5e5)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/835dfbca-4845-47c7-830f-df2ac370f5e5">
+</p>
+
 
   B.3. DateValue
 
@@ -183,7 +226,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘢𝘵𝘦𝘷𝘢𝘭𝘶𝘦("𝘺𝘦𝘢𝘳-𝘮𝘰𝘯𝘵𝘩-𝘥𝘢𝘺")
-> ![DATEVALUE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3982b82a-4752-481b-aa7d-3abf85f1d8fb)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3982b82a-4752-481b-aa7d-3abf85f1d8fb">
+</p>
+
 
   B.4. TimeValue
 
@@ -192,7 +238,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘛𝘐𝘔𝘌𝘝𝘈𝘓𝘜𝘌("𝘵𝘪𝘮𝘦_𝘵𝘦𝘹𝘵")
-> ![TIMEVALUE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/f27e88ac-ef69-4eee-bdf9-6382c17e29ef)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/f27e88ac-ef69-4eee-bdf9-6382c17e29ef">
+</p>
+
 
   B.5. Now&Today
 
@@ -207,7 +256,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
     =𝘕𝘖𝘞() 
 
     =𝘛𝘖𝘋𝘈𝘠()
-> ![NOW TODAY](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a6178a3e-dd2b-4fff-91ba-af58418f8eb7)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a6178a3e-dd2b-4fff-91ba-af58418f8eb7">
+</p>
+
 
   B.6. Hour, Minute, Second
 
@@ -244,7 +296,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 
     =𝘚𝘌𝘊𝘖𝘕𝘋(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
     
->> ![HOUR,MINUTE,SECOND](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/2c7e5214-b7b2-43d5-82d8-8dfc579d6f7e)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/2c7e5214-b7b2-43d5-82d8-8dfc579d6f7e">
+</p>
+
 
   B.7. Day, Month, Year
 
@@ -268,14 +323,15 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-
-
+    
     =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-
 
     =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
     
->> ![DATE,MONTH,YEAR](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6fd695ed-35cc-4644-b6d7-a47f9267e7f8)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6fd695ed-35cc-4644-b6d7-a47f9267e7f8">
+</p>
+
 
   B.8. Weeknum
 
@@ -288,7 +344,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘌𝘌𝘒𝘕𝘜𝘔(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
-> ![WEEKNUM](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/fe0f9936-c6c3-4421-9eda-6931e79ce24b)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/fe0f9936-c6c3-4421-9eda-6931e79ce24b">
+</p>
+
 
   B.9. Weekday
 
@@ -299,7 +358,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘌𝘌𝘒𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳,[𝘳𝘦𝘵𝘶𝘳𝘯_𝘵𝘺𝘱𝘦])
-> ![WEEKDAY](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3d399807-6f75-4ea8-8f78-8dede6b654bd)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3d399807-6f75-4ea8-8f78-8dede6b654bd">
+</p>
+
 
   B.10. EDATE
 
@@ -310,7 +372,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘋𝘈𝘛𝘌(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦,𝘮𝘰𝘯𝘵𝘩𝘴)
-> ![EDATE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/7f02718e-b4fc-4be3-a9b3-ea8830332d1b)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/7f02718e-b4fc-4be3-a9b3-ea8830332d1b">
+</p>
+
 
   B.11. EOMONTH
 
@@ -319,7 +384,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘌𝘖𝘔𝘖𝘕𝘛𝘏(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦,𝘮𝘰𝘯𝘵𝘩𝘴)
-> ![EOMONTH](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/c82ec7bb-941c-48c6-b432-d00cac29d53b)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/c82ec7bb-941c-48c6-b432-d00cac29d53b">
+</p>
+
 
   B.12. Workday
 
@@ -330,7 +398,11 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘖𝘙𝘒𝘋𝘈𝘠(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦, 𝘥𝘢𝘺𝘴, [𝘩𝘰𝘭𝘪𝘥𝘢𝘺𝘴])
-> ![WORKDAY](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/189f6fe4-c727-4855-938d-7d25ff3ac1f6)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/189f6fe4-c727-4855-938d-7d25ff3ac1f6">
+</p>
+
+
 
 > Parameters
 >
@@ -350,7 +422,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘞𝘖𝘙𝘒𝘋𝘈𝘠.𝘐𝘕𝘛𝘓(𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦, 𝘥𝘢𝘺𝘴, [𝘸𝘦𝘦𝘬𝘦𝘯𝘥], [𝘩𝘰𝘭𝘪𝘥𝘢𝘺𝘴])
->  ![WORKDAY INTL](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d10ded5a-1017-434c-8eb3-57f835fdac54)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d10ded5a-1017-434c-8eb3-57f835fdac54">
+</p>
+
 
 > Parameters
 >
@@ -369,7 +444,9 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘋𝘈𝘠𝘚(𝘦𝘯𝘥_𝘥𝘢𝘵𝘦, 𝘴𝘵𝘢𝘳𝘵_𝘥𝘢𝘵𝘦)
-> ![DAYS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/744b1f6b-a58b-4e0b-a877-52591d45ad07)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/744b1f6b-a58b-4e0b-a877-52591d45ad07">
+</p>
 
   
 ### 𝐂. 𝐋𝐎𝐎𝐊𝐔𝐏 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
@@ -385,7 +462,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘳𝘢𝘯𝘨𝘦, [𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
-> ![LOOKUP](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/59ccf0fc-aaf5-4292-a2b3-4543f2e99292)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/59ccf0fc-aaf5-4292-a2b3-4543f2e99292">
+</p>
+
 
 
   C.2. VLOOKUP
@@ -396,7 +476,11 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘝𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘵𝘢𝘣𝘭𝘦 , 𝘪𝘯𝘥𝘦𝘹 ,[𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
-> ![VLOOKUP](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6534b03b-9fc9-4f2a-b3a1-7751f8c9505a)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/6534b03b-9fc9-4f2a-b3a1-7751f8c9505a">
+</p>
+
+
 > Parameters
 >
 > -> value - The value to look for in the first column of a table.
@@ -416,7 +500,9 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘏𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘵𝘢𝘣𝘭𝘦 , 𝘪𝘯𝘥𝘦𝘹 ,[𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] )
-> ![HLOOKUP](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d15092bb-09da-4bc3-8641-5a86637a3082)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/d15092bb-09da-4bc3-8641-5a86637a3082">
+</p>
 
 
   C.4. MATCH
@@ -426,7 +512,9 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
-> ![MATCH](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/bd30345b-994a-4718-9885-929a9f237477)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/bd30345b-994a-4718-9885-929a9f237477">
+</p>
 
 
   C.5. CHOOSE
@@ -436,7 +524,11 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
-> ![CHOOSE](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3dae2280-ea5c-4749-80e9-a0db4e61521a)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/3dae2280-ea5c-4749-80e9-a0db4e61521a">
+</p>
+
+
 > Parameters
 >
 > -> position - The position number in the list of values to return. It must be a number between 1 and 29.
@@ -451,7 +543,10 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘈𝘙𝘌𝘈𝘚(𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘦)
-> ![AREAS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/96ec3f9f-6841-419c-a9e8-f59071f697da)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/96ec3f9f-6841-419c-a9e8-f59071f697da">
+</p>
+
 
   
   C.7. ADDRESS
@@ -461,7 +556,11 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘈𝘋𝘋𝘙𝘌𝘚𝘚( 𝘳𝘰𝘸, 𝘤𝘰𝘭𝘶𝘮𝘯, [𝘳𝘦𝘧_𝘵𝘺𝘱𝘦]. [𝘳𝘦𝘧_𝘴𝘵𝘺𝘭𝘦]. [𝘴𝘩𝘦𝘦𝘵_𝘯𝘢𝘮𝘦] )
-> ![ADDRESS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/62071d7d-64b6-42cc-ab66-9e431c93ea8f)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/62071d7d-64b6-42cc-ab66-9e431c93ea8f">
+</p>
+
+
 > Parameters
 >
 > -> row num - The row number to use in the cell address.
@@ -482,7 +581,9 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘓𝘜𝘔𝘕 ([𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘦])
-> ![COLUMN](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/b9a145ac-0162-4a88-86cf-ddf99cc9bf16)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/b9a145ac-0162-4a88-86cf-ddf99cc9bf16">
+</p>
 
   
   C.9. COLUMNS
@@ -492,7 +593,9 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     =𝘊𝘖𝘓𝘜𝘔𝘕𝘚 (𝘢𝘳𝘳𝘢𝘺)
-> ![COLUMNS](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a8bc7aed-2477-468c-889c-c57ed8b91673)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/a8bc7aed-2477-468c-889c-c57ed8b91673">
+</p>
 
   
   C.10. INDIRECT
@@ -502,7 +605,11 @@ Number = 1, Text = 2, Logical = 4, Error = 16, and Array = 64.
 𝑺𝒚𝒏𝒕𝒂𝒙
 
     = 𝘐𝘕𝘋𝘐𝘙𝘌𝘊𝘛( 𝘴𝘵𝘳𝘪𝘯𝘨_𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘦, [𝘳𝘦𝘧_𝘴𝘵𝘺𝘭𝘦] )
-> ![INDIRECT](https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/288fd709-2526-4fad-a7b3-5f721ce09650)
+<p align="center">
+  <img src="https://github.com/John-Rey-Decano/MX-4101_Group5_Practice-of-Information-Date-and-Time-and-Lookup-Functions/assets/143807174/288fd709-2526-4fad-a7b3-5f721ce09650">
+</p>
+
+>
 > Parameters
 >
 > -> string reference - A textual representation of a cell reference.
